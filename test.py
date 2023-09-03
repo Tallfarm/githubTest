@@ -12,6 +12,7 @@ def get_sub(x):
 # XDXDXDXDX
 # :0000
 #¤
+# Ny ændring
 # Define the file name here
 file_name = 'QHE_lab_4K_ID_02.txt'
 
